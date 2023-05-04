@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Fraction.h
+iostream
+-
+Maths.h
+../include/Maths.h
+
+../include/FractionArray.h
+Fraction.h
+../include/Fraction.h
+vector
+-
+
+../include/Maths.h
+
+/home/karol/programowanie_obiektowe_1/lab0/lab01.cpp
+Fraction.h
+/home/karol/programowanie_obiektowe_1/lab0/Fraction.h
+FractionArray.h
+/home/karol/programowanie_obiektowe_1/lab0/FractionArray.h
+iostream
+-
+
+/home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp
+Fraction.h
+/home/karol/programowanie_obiektowe_1/lab0/src/Fraction.h
+

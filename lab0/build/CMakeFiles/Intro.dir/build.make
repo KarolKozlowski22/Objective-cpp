@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/karol/programowanie_obiektowe_1/lab0
+CMAKE_SOURCE_DIR = /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/karol/programowanie_obiektowe_1/lab0/build
+CMAKE_BINARY_DIR = /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Intro.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/Intro.dir/flags.make
 
 CMakeFiles/Intro.dir/lab01.cpp.o: CMakeFiles/Intro.dir/flags.make
 CMakeFiles/Intro.dir/lab01.cpp.o: ../lab01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Intro.dir/lab01.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/lab01.cpp.o -c /home/karol/programowanie_obiektowe_1/lab0/lab01.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Intro.dir/lab01.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/lab01.cpp.o -c /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/lab01.cpp
 
 CMakeFiles/Intro.dir/lab01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Intro.dir/lab01.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/lab0/lab01.cpp > CMakeFiles/Intro.dir/lab01.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/lab01.cpp > CMakeFiles/Intro.dir/lab01.cpp.i
 
 CMakeFiles/Intro.dir/lab01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Intro.dir/lab01.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/lab0/lab01.cpp -o CMakeFiles/Intro.dir/lab01.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/lab01.cpp -o CMakeFiles/Intro.dir/lab01.cpp.s
 
 CMakeFiles/Intro.dir/src/Fraction.cpp.o: CMakeFiles/Intro.dir/flags.make
 CMakeFiles/Intro.dir/src/Fraction.cpp.o: ../src/Fraction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Intro.dir/src/Fraction.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/src/Fraction.cpp.o -c /home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Intro.dir/src/Fraction.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/src/Fraction.cpp.o -c /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.cpp
 
 CMakeFiles/Intro.dir/src/Fraction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Intro.dir/src/Fraction.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp > CMakeFiles/Intro.dir/src/Fraction.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.cpp > CMakeFiles/Intro.dir/src/Fraction.cpp.i
 
 CMakeFiles/Intro.dir/src/Fraction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Intro.dir/src/Fraction.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp -o CMakeFiles/Intro.dir/src/Fraction.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.cpp -o CMakeFiles/Intro.dir/src/Fraction.cpp.s
 
 CMakeFiles/Intro.dir/src/Maths.cpp.o: CMakeFiles/Intro.dir/flags.make
 CMakeFiles/Intro.dir/src/Maths.cpp.o: ../src/Maths.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Intro.dir/src/Maths.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/src/Maths.cpp.o -c /home/karol/programowanie_obiektowe_1/lab0/src/Maths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Intro.dir/src/Maths.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Intro.dir/src/Maths.cpp.o -c /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.cpp
 
 CMakeFiles/Intro.dir/src/Maths.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Intro.dir/src/Maths.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/lab0/src/Maths.cpp > CMakeFiles/Intro.dir/src/Maths.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.cpp > CMakeFiles/Intro.dir/src/Maths.cpp.i
 
 CMakeFiles/Intro.dir/src/Maths.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Intro.dir/src/Maths.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/lab0/src/Maths.cpp -o CMakeFiles/Intro.dir/src/Maths.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.cpp -o CMakeFiles/Intro.dir/src/Maths.cpp.s
 
 # Object files for target Intro
 Intro_OBJECTS = \
@@ -110,7 +110,7 @@ Intro: CMakeFiles/Intro.dir/src/Fraction.cpp.o
 Intro: CMakeFiles/Intro.dir/src/Maths.cpp.o
 Intro: CMakeFiles/Intro.dir/build.make
 Intro: CMakeFiles/Intro.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Intro"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Intro"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Intro.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/Intro.dir/clean:
 .PHONY : CMakeFiles/Intro.dir/clean
 
 CMakeFiles/Intro.dir/depend:
-	cd /home/karol/programowanie_obiektowe_1/lab0/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/karol/programowanie_obiektowe_1/lab0 /home/karol/programowanie_obiektowe_1/lab0 /home/karol/programowanie_obiektowe_1/lab0/build /home/karol/programowanie_obiektowe_1/lab0/build /home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles/Intro.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0 /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0 /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build /home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles/Intro.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Intro.dir/depend
 

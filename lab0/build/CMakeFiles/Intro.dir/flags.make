@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_FLAGS = -g   -std=gnu++11
 
-CXX_DEFINES = -DPROJECTPATH=\"/home/karol/programowanie_obiektowe_1/lab0\"
+CXX_DEFINES = -DPROJECTPATH=\"/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0\"
 
-CXX_INCLUDES = -I/home/karol/programowanie_obiektowe_1/lab0/include 
+CXX_INCLUDES = -I/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/include 
 

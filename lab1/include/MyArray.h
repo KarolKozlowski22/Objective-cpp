@@ -5,7 +5,7 @@
 #include <algorithm>
 
 class MyArray{
-
+    
     //operator << in order to print the array
     friend std::ostream & operator<<(std::ostream & out, const MyArray & arr){
         if(arr._tab!=nullptr){
@@ -29,6 +29,7 @@ class MyArray{
     }
 
     //operator + in order to add a value to the array
+    
     friend MyArray operator+(const MyArray arr, const int val) {
         MyArray result(arr);
         for (int i = 0; i < result._size; ++i) {
@@ -45,12 +46,15 @@ class MyArray{
 
 
     private:
+    
     //pointer to the array
     int* _tab;
+    
     //size of the array
     size_t _size;
 
     public:
+    
     //default constructor
     MyArray(){}
 
@@ -66,6 +70,7 @@ class MyArray{
     //operator [] in order to access the array
     int & operator[](size_t);
 
+    
     //operator [] in order to access the array const version
     const int & operator[](size_t)const;
 
@@ -84,6 +89,7 @@ class MyArray{
     //operator += in order to add a value to the array
     void operator+=(const int);
 
+    
     //destructor
     ~MyArray();
 

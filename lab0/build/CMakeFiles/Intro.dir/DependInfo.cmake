@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/karol/programowanie_obiektowe_1/lab0/lab01.cpp" "/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles/Intro.dir/lab01.cpp.o"
-  "/home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp" "/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles/Intro.dir/src/Fraction.cpp.o"
-  "/home/karol/programowanie_obiektowe_1/lab0/src/Maths.cpp" "/home/karol/programowanie_obiektowe_1/lab0/build/CMakeFiles/Intro.dir/src/Maths.cpp.o"
+  "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/lab01.cpp" "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles/Intro.dir/lab01.cpp.o"
+  "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.cpp" "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles/Intro.dir/src/Fraction.cpp.o"
+  "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.cpp" "/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/build/CMakeFiles/Intro.dir/src/Maths.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
-  "PROJECTPATH=\"/home/karol/programowanie_obiektowe_1/lab0\""
+  "PROJECTPATH=\"/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0\""
   )
 
 # The include file search paths:

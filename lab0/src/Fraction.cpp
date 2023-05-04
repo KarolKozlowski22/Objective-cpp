@@ -30,4 +30,3 @@ Fraction Fraction::operator+(const Fraction & frac)const{
     const int newDenominator=this->_denominator*frac._denominator;
     return Fraction(newNumerator, newDenominator);
 }
-

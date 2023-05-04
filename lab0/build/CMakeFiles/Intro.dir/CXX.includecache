@@ -20,15 +20,19 @@ vector
 
 ../include/Maths.h
 
-/home/karol/programowanie_obiektowe_1/lab0/lab01.cpp
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/lab01.cpp
 Fraction.h
-/home/karol/programowanie_obiektowe_1/lab0/Fraction.h
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/Fraction.h
 FractionArray.h
-/home/karol/programowanie_obiektowe_1/lab0/FractionArray.h
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/FractionArray.h
 iostream
 -
 
-/home/karol/programowanie_obiektowe_1/lab0/src/Fraction.cpp
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.cpp
 Fraction.h
-/home/karol/programowanie_obiektowe_1/lab0/src/Fraction.h
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Fraction.h
+
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.cpp
+Maths.h
+/home/karol/programowanie_obiektowe_1/Objective-cpp/lab0/src/Maths.h
 

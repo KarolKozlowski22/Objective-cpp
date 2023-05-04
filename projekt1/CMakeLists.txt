@@ -34,5 +34,3 @@ add_executable(${PROJECT_NAME} main.cpp ${SOURCES})
 
 add_custom_target(run ./${PROJECT_NAME})
 add_custom_target(check valgrind ./${PROJECT_NAME})
-
-#got into build run cmake.. then make 

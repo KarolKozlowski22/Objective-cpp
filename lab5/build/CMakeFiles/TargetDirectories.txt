@@ -1,5 +1,0 @@
-/home/karol/programowanie_obiektowe_1/Objective-cpp/lab5/build/CMakeFiles/rebuild_cache.dir
-/home/karol/programowanie_obiektowe_1/Objective-cpp/lab5/build/CMakeFiles/edit_cache.dir
-/home/karol/programowanie_obiektowe_1/Objective-cpp/lab5/build/CMakeFiles/check.dir
-/home/karol/programowanie_obiektowe_1/Objective-cpp/lab5/build/CMakeFiles/run.dir
-/home/karol/programowanie_obiektowe_1/Objective-cpp/lab5/build/CMakeFiles/main.dir
